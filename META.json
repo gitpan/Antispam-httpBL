@@ -4,7 +4,7 @@
       "Dave Rolsky <autarch@urth.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.102342, CPAN::Meta::Converter version 2.101670",
+   "generated_by" : "Dist::Zilla version 4.102345, CPAN::Meta::Converter version 2.101670",
    "license" : [
       "artistic_2"
    ],
@@ -21,7 +21,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Antispam::Toolkit" : "0.05",
+            "Antispam::Toolkit" : "0.06",
             "Moose" : 0,
             "MooseX::StrictConstructor" : 0,
             "MooseX::Types" : 0,
@@ -46,6 +46,6 @@
          "web" : "http://hg.urth.org/hg/Antispam-httpBL"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 

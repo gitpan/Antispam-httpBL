@@ -22,13 +22,13 @@ my %WriteMakefileArgs = (
   'LICENSE' => 'artistic_2',
   'NAME' => 'Antispam::httpBL',
   'PREREQ_PM' => {
-    'Antispam::Toolkit' => '0.05',
+    'Antispam::Toolkit' => '0.06',
     'Moose' => '0',
     'MooseX::StrictConstructor' => '0',
     'MooseX::Types' => '0',
     'WWW::Honeypot::httpBL' => '0'
   },
-  'VERSION' => '0.01',
+  'VERSION' => '0.02',
   'test' => {
     'TESTS' => 't/*.t'
   }
